@@ -9,6 +9,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Commands:
+# Create a new app
+$ ng new login-app –routing
+# create a new module with route
+$ ng generate module home --route home --module app.module
+
 
 ## Build
 
